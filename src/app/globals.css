@@ -39,6 +39,6 @@
 }
 .hover\:animate-scale:hover {
 	animation-name: scale;
-	animation-duration: 0.25s;
+	animation-duration: 0.2s;
 	animation-fill-mode: forwards;
 }
